@@ -30,14 +30,14 @@ A set of 14 phonetic-linguistic features were semi-automatically assessed and ex
         * lexical density (LD),
         * lexical sophistication (LS),
     * for the syntactic complexity:
-        * the average length of speech turns (SL),
-        * the average depth of syntactic trees (AD),
+        * the mean length of speech turns (ML),
+        * the mean depth of syntactic trees (MD),
     * for the discourse cohesion:
         * the proportion of discourse connectors (DC),
         * diversity of discourse connectors (DivC),
     * for disfluencies:
         * the proportion of hesitation words (HW),
-        * the proportion of unfinished words (UW).
+        * the proportion of false starts (FS).
 
 
 Assessing speech proficiency
