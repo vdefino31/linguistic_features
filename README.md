@@ -46,7 +46,7 @@ Three FFL (_French as a Foreign Language_) teachers were asked to evaluate the s
 
 Evolution of the phonetic-linguistic features according to the speech proficiency
 --
-The Figures presenting the evolution of the above-mentioned features according to the speech proficiency are placed in the dedicated folders.
+The Figures in this repository shows the evolution of the above-mentioned features according to the speech proficiency.
 
 References
 --
